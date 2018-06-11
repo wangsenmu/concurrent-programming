@@ -1,7 +1,7 @@
 package com.wsm.concurrent.lock.redis;
 
 /**
- * Created by liuyang on 2017/4/20.
+ * Created by wangsm on 2018/6/11.
  */
 public class Test {
     public static void main(String[] args) {
