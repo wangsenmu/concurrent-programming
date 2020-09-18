@@ -8,7 +8,7 @@ public class Test {
 
     public static void main(String[] args) {
 
-        ThreadA threadA = new Thre`/ adA();
+        ThreadA threadA = new ThreadA();
         threadA.start();
         try {
             threadA.wait();
