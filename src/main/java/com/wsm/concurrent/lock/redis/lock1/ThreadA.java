@@ -1,4 +1,4 @@
-package com.wsm.concurrent.lock.redis;
+package com.wsm.concurrent.lock.redis.lock1;
 
 /**
  * Created by wangsm on 2018/6/11.

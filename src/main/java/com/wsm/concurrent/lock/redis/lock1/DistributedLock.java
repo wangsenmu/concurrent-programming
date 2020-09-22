@@ -1,4 +1,4 @@
-package com.wsm.concurrent.lock.redis;
+package com.wsm.concurrent.lock.redis.lock1;
 
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
